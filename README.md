@@ -1,3 +1,5 @@
+[![An image of @aayushlad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aayushlad)](https://holopin.io/@aayushlad)
+
 # Aayush Lad
 
 [![Gmail Badge](https://img.shields.io/badge/-aayushlad1973@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aayushlad1973@gmail.com)](mailto:aayushlad1973@gmail.com)
