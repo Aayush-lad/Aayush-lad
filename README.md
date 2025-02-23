@@ -1,11 +1,13 @@
 [![An image of @aayushlad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aayushlad)](https://holopin.io/@aayushlad)
 
+
 # Aayush Lad
 
-[![Gmail Badge](https://img.shields.io/badge/-aayushlad1973@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aayushlad1973@gmail.com)](mailto:aayushlad1973@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-Aayush%20Lad-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayush-lad-a37345250/)](https://www.linkedin.com/in/aayush-lad-a37345250/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white&link=https://aayushlad.netlify.app/)](https://aayushlad.netlify.app/)
-[![Phone Badge](https://img.shields.io/badge/Phone-7069404791-brightgreen)](tel:+917069404791)
+[![Gmail Badge](https://img.shields.io/badge/-aayushlad1973@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aayushlad1973@gmail.com)](mailto:aayushlad1973@gmail.com)[![LinkedIn Badge](https://img.shields.io/badge/-Aayush%20Lad-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayush-lad-a37345250/)](https://www.linkedin.com/in/aayush-lad-a37345250/)[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white&link=https://aayushlad.netlify.app/)](https://aayushlad.netlify.app/) [![Phone Badge](https://img.shields.io/badge/Phone-7069404791-brightgreen)](tel:+917069404791)  
+
+## Competitive Programming Profiles  
+
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black&link=https://leetcode.com/your_username/)](https://leetcode.com/u/mrExcursionist/)  [![AtCoder Badge](https://img.shields.io/badge/-AtCoder-1F8ACB?style=flat&logo=AtCoder&logoColor=white&link=https://atcoder.jp/users/your_username)](https://atcoder.jp/users/mrExcursionist)  [![CodeChef Badge](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/your_username)](https://www.codechef.com/users/mrexcursionist)  [![Codeforces Badge](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white&link=https://codeforces.com/profile/your_username)](https://codeforces.com/profile/mrExcursionist)  
 
 ---
 
