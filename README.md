@@ -11,6 +11,16 @@
 
 ---
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mrExcursionist?theme=dark&ext=contest" width="400" height="400" alt="LeetCode Stats">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mrExcursionist" width="400" height="400" alt="Codeforces Stats">
+</p>
+
+<p align="center">
+  <img src="https://codechef-readme-stats.onrender.com/mrexcursionist?v=1" width="400" height="400" alt="CodeChef Stats">
+  <img src="https://atcoder-readme-stats.vercel.app/stats/mrExcursionist" width="400" height="400" alt="AtCoder Stats">
+</p>
+
 ## 🚀 Projects
 
 ### [Forge - An SAAS Project and Collaboration Tool](https://forgeappclient.netlify.app/) 
